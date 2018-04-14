@@ -1,0 +1,47 @@
+/* add your CSS here */
+
+.facts
+{
+	font-style:italic;
+    padding-left:40px;
+	padding-right:20px;
+}
+
+.labels span
+{
+	font-weight:bold;
+}
+.labels
+{
+	list-style:none;
+	padding-right:20px;
+	
+}
+
+.info
+{
+	border:3px solid black;
+	border-radius:5px;
+	
+}
+
+.top
+{
+	border:3px solid black;	
+	width:300px;
+	padding:20px;
+	box-shadow: 5px 10px 8px #888888;
+	border-radius:5px;
+}
+
+.image
+{
+	padding-bottom:10px;
+	border-radius:2px;
+}
+
+#desc
+{
+	padding-left:40px;
+	padding-right:20px;
+}
